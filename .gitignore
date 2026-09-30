@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Model weights (downloaded automatically, and too large for GitHub)
+*.pt
+*.onnx
+*.pth
+
+# Video and image data - never commit participant footage
+*.mp4
+*.MP4
+*.mov
+*.MOV
+*.avi
+*.mkv
+
+# Pipeline outputs and data
+outputs/
+data/
+*.xlsx
+*.csv
+*.npy
+*.npz
+*.pdf
+
+# Environment and editor files
+.venv/
+venv/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,17 @@
+# Core
+numpy
+scipy
+opencv-python
+Pillow
+
+# Pose models (YOLOv8-pose and RTMPose weights download automatically on first run)
+ultralytics
+rtmlib
+onnxruntime
+
+# Reports and dashboards
+reportlab
+matplotlib
+plotly
+dash
+openpyxl
